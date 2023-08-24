@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @angesh007
-💻 I have experience in multiple programming languages, including Python, JavaScript, and Java. I love exploring new technologies and frameworks to stay up-to-date with the latest advancements in the industry.
+💻 I have experience in multiple programming languages, including Python,c++,R. I love exploring new technologies and frameworks to stay up-to-date with the latest advancements in the industry.
 ✨ Together, let's build remarkable software and make a positive impact in the tech community!
 
 <!---
